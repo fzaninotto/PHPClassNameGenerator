@@ -1,7 +1,7 @@
 PHPClassNameGenerator™: A PHP Class Name Generator
 ==================================================
 
-Generate PSR-0 compliant class names with ease.
+Generate [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md) compliant class names with ease.
 
 Why Should I Use PHPClassNameGenerator™?
 ----------------------------------------
